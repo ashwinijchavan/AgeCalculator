@@ -1,0 +1,33 @@
+body {
+	
+}
+h2{
+    color: #008CBA;
+    
+}
+.btn{
+    background-color: #4CAF50; /* Green */
+    border: none;
+    color: white;
+    padding: 10px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+     margin : 0% 30% 0% 30%;
+}
+.btn:hover {
+    background-color: white;
+    color: black;
+    border: 2px solid #4CAF50;
+}
+#birth_date {
+    margin : 0% 30% 0% 30%;
+}
+.mdl-grid{
+    width: 800px;
+}
+.b2{
+    margin: 30%;
+    display: none;
+}
